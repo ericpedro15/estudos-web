@@ -12,4 +12,4 @@ Conceitos novos utilizados no desenvolvimento:
 - Tamanhos e estilos de textos
 - Cor e imagem de fundo
 
-Diferente do primeiro projeto onde foi utilizada uma tabela para a estruturação, aqui foram aplicadas tags divs (```<div></div>```).
+Diferente do primeiro projeto (projeto01-UNES) onde foi utilizada uma tabela para a estruturação, aqui foram aplicadas tags divs (```<div></div>```).
